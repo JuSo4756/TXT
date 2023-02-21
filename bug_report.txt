@@ -1,1 +1,12 @@
-
+  id: 1111,
+  title: the eye icon in the password field of the registration form is not displayed visually but works if you click on the intended location of his location,
+  step_1: switch to russian,
+  step_2: click on create account button in header or on bunner,
+  step_3: in registration form enter your password,
+  expected result: the eye icon is displayed and it is clickable,
+  actual result: the eye icon is not displayed but it is clickable on the intended place of it is location,
+  attachments: link,
+  environment: opera google hrome,
+  severity: major,
+  priority: high,
+  qa engineer: Ulia Solo.
