@@ -1,0 +1,6 @@
+
+first name: Ulia,
+last name: Solo,
+age: 30,
+pet: dog, cat,
+salary: 1000
