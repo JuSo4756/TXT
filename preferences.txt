@@ -1,0 +1,5 @@
+movie: Titanic,
+series: Friends,
+food: shaurma,
+time of the year: summer,
+country: Italy
